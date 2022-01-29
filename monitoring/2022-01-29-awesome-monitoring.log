@@ -1,0 +1,38 @@
+{
+    "1643446681.0": {
+        "MemTotal": 7481476,
+        "MemAvailable": 2804932,
+        "SwapTotal": 2097148,
+        "SwapFree": 1863712
+    },
+    "1643446741.0": {
+        "MemTotal": 7481476,
+        "MemAvailable": 2809412,
+        "SwapTotal": 2097148,
+        "SwapFree": 1863712
+    },
+    "1643446801.0": {
+        "MemTotal": 7481476,
+        "MemAvailable": 2799580,
+        "SwapTotal": 2097148,
+        "SwapFree": 1863712
+    },
+    "1643446861.0": {
+        "MemTotal": 7481476,
+        "MemAvailable": 2767376,
+        "SwapTotal": 2097148,
+        "SwapFree": 1863712
+    },
+    "1643446921.0": {
+        "MemTotal": 7481476,
+        "MemAvailable": 2809180,
+        "SwapTotal": 2097148,
+        "SwapFree": 1863712
+    },
+    "1643446981.0": {
+        "MemTotal": 7481476,
+        "MemAvailable": 2799144,
+        "SwapTotal": 2097148,
+        "SwapFree": 1863712
+    }
+}
